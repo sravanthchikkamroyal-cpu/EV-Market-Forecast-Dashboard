@@ -3,7 +3,6 @@ import plotly.express as px
 from dash import Dash, html, dcc, Input, Output
 from sklearn.linear_model import LinearRegression
 import numpy as np
-
 # ----------------------------
 # Load Dataset
 # ----------------------------
